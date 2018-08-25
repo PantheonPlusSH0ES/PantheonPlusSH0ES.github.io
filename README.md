@@ -2,6 +2,8 @@ Test of simplest GitHub page, leveraging Jekyll without Jekyll.
 
 View at https://christophera.github.io/simplest-github-page/
 
+This technique will force Github to default to the [Primer Theme](https://github.com/pages-themes/primer), which is is the default if you do not select a theme, however, this theme is not among GitHub's standard theme choices.
+
 ## Goals
 
 * Without using Jekyll, leverage the various files that allow you to use markdown directly with github pages.
