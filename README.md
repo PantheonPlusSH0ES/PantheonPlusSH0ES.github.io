@@ -25,5 +25,9 @@ View at https://christophera.github.io/simplest-github-page/
 ## Notes
 * The H1 rendered the top of the html comes from the setting in `_config.yml` does not appear in the github rendered page.
 * Github will render raw URLs as links, but you must use proper markdown construction for it to work on pages
+* If you do a relative link to a markdown file without the extension, it will be rendered correctly, for example
+  * relative html w/o .md [./sample](./sample)
+  * relative thml with .dm [./sample.md](./sample.md)
+  
 
 
