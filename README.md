@@ -6,9 +6,16 @@ View at https://christophera.github.io/simplest-github-page/
 
 * Without using Jekyll, leverage the various files that allow you to use markdown directly with github pages.
 * Pages should largely look the same when rendered from the GitHub repo page and from the git
+* Leverage the default Jekyll Primer theme.
 
 ## Using This
 * [ ] Copy these files in this repo to your own github
 * [ ] In your repo, turn on github pages for 'master'
-* [ ] Edit the `_config.yml` to your own info
-* [ ] Edit the /assets/css/style.css for your own styles
+* [ ] Do not select a theme.
+* [ ] Edit the `_config.yml` with your own info
+* [ ] Edit the `/assets/css/style.css` for your own styles
+
+## Notes
+* The H1 at the top comes from the setting in `_config.yml`
+* Github will render raw URLs as links, but you must use proper markdown construction for it to work on pages
+
