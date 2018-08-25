@@ -23,7 +23,7 @@ View at https://christophera.github.io/simplest-github-page/
   ```
 
 ## Notes
-* The H1 at the top comes from the setting in `_config.yml`
+* The H1 rendered the top of the html comes from the setting in `_config.yml` does not appear in the github rendered page.
 * Github will render raw URLs as links, but you must use proper markdown construction for it to work on pages
 
 
