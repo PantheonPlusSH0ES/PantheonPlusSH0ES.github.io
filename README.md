@@ -14,8 +14,16 @@ View at https://christophera.github.io/simplest-github-page/
 * [ ] Do not select a theme.
 * [ ] Edit the `_config.yml` with your own info
 * [ ] Edit the `/assets/css/style.css` for your own styles
+* [ ] Edit the `/_layouts/default.html` file for the default html template.
+* [ ] You can create other `_layouts/` templates, and have pages use them by adding this yaml frontmatter to the top of the page:
+  ```
+  ---
+  layout: templatename
+  ---
+  ```
 
 ## Notes
 * The H1 at the top comes from the setting in `_config.yml`
 * Github will render raw URLs as links, but you must use proper markdown construction for it to work on pages
+
 
