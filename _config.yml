@@ -1,0 +1,17 @@
+title: "Simplest GitHub Page"
+project: "Simplest GitHub Page"
+description: "Test of simplest GitHub page, leveraging Jekyll without Jekyll"
+author: Christopher Allen
+email: ChristopherA@LifeWithAlacrity.com
+twitter_username: ChristopherA
+github_username:  ChristopherA
+show_downloads: false
+google_analytics:
+encoding: UTF-8
+kramdown:
+  input: GFM
+  hard_wrap: false
+future: true
+jailed: false
+theme: jekyll-theme-primer
+gfm_quirks: paragraph_end
