@@ -25,9 +25,7 @@ View at https://christophera.github.io/simplest-github-page/
 ## Notes
 * The H1 rendered the top of the html comes from the setting in `_config.yml` does not appear in the github rendered page.
 * Github will render raw URLs as links, but you must use proper markdown construction for it to work on pages
-* If you do a relative link to a markdown file without the extension, it will be rendered correctly, for example
-  * relative html w/o .md [./sample](./sample)
-  * relative thml with .dm [./sample.md](./sample.md)
+* If you do a relative link to a markdown file without the extension, it will be rendered in html correctly, for example relative [./sample](./sample) however, when rendered in Github the relative link will give a 404 error. However, if use use the `.md` extension in the relative link, it will render correctly in both html and gihub and both will function, see [./sample.md](./sample.md). You do not need to do this with `/` which will render `README.md` as `index.html`
   
 
 
