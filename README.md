@@ -8,7 +8,8 @@ This technique will force Github to default to the [Primer Theme](https://github
 
 * Without using Jekyll, leverage the various files that allow you to use markdown directly with github pages.
 * Pages should largely look the same when rendered from the GitHub repo page and from the git
-* Leverage the default Jekyll Primer theme.
+* Leverage the default Jekyll Primer CSS without the using the full theme.
+* Support interna anchor link tags
 
 ## Using This
 * [ ] Copy these files in this repo to your own github
