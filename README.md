@@ -1,6 +1,10 @@
+# Simplest GitHub Page
+
 Test of simplest GitHub page, leveraging Jekyll without Jekyll.
 
 View at https://christophera.github.io/simplest-github-page/
+
+Repo at https://github.com/ChristopherA/simplest-github-page/
 
 This technique will force Github to default to the [Primer Theme](https://github.com/pages-themes/primer), which is is the default if you do not select a theme, however, this theme is not among GitHub's standard theme choices.
 
