@@ -6,7 +6,6 @@ email: ChristopherA@LifeWithAlacrity.com
 twitter_username: ChristopherA
 github_username:  ChristopherA
 show_downloads: false
-google_analytics:
 encoding: UTF-8
 kramdown:
   input: GFM
