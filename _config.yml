@@ -12,5 +12,8 @@ kramdown:
   hard_wrap: false
 future: true
 jailed: false
-theme: jekyll-theme-primer
 gfm_quirks: paragraph_end
+# theme: jekyll-theme-primer
+remote_theme: pages-themes/primer
+plugins:
+  - jekyll-remote-theme
