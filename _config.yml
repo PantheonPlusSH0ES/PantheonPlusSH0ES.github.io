@@ -16,4 +16,5 @@ gfm_quirks: paragraph_end
 # theme: jekyll-theme-primer
 remote_theme: pages-themes/primer
 plugins:
-  - jekyll-remote-theme
+  - jekyll-remote-theme # https://github.com/benbalter/jekyll-remote-theme
+  - jekyll-relative-links # https://github.com/benbalter/jekyll-relative-links
