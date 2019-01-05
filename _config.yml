@@ -18,3 +18,5 @@ remote_theme: pages-themes/primer
 plugins:
   - jekyll-remote-theme # https://github.com/benbalter/jekyll-remote-theme
   - jekyll-relative-links # https://github.com/benbalter/jekyll-relative-links
+  - jekyll-avatar # https://github.com/benbalter/jekyll-avatar
+  
