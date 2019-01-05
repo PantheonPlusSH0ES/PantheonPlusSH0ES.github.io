@@ -37,3 +37,4 @@ Repo at [https://github.com/ChristopherA/simplest-github-page/](https://github.c
   published: false
   ---
   ```
+* You can display a github avatar `\{% avatar [USERNAME] %}` {% avatar [ChristopherA] %}
