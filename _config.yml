@@ -17,6 +17,6 @@ gfm_quirks: paragraph_end
 remote_theme: pages-themes/primer
 plugins:
   - jekyll-remote-theme # https://github.com/benbalter/jekyll-remote-theme
+  - jekyll-default-layout # https://github.com/benbalter/jekyll-default-layout
   - jekyll-relative-links # https://github.com/benbalter/jekyll-relative-links
   - jekyll-avatar # https://github.com/benbalter/jekyll-avatar
-  
