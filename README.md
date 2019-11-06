@@ -22,20 +22,27 @@ Repo at [https://github.com/ChristopherA/simplest-github-page/](https://github.c
 * [ ]  Edit the `/_layouts/default.html` file for the default html template.
 ## Notes
 * This technique will force Github to default to the CSS used by the [Primer Theme](https://github.com/pages-themes/primer), which is is the default Github theme if you do not select a theme, however, note that this theme is not among GitHub's standard theme choices, so you can't return to it if you pick a different theme.
-* Github will render raw URLs as links, but you must use proper markdown construction for it to work on pages
 * I've not been able to get the `_posts` feature to work without using Jekyll itself. The supposedly should work, but doesn't.
-* If you do a relative link to a markdown file without the extension, it will be rendered in html correctly, for example relative [./sample](./sample). Unfortunately, when rendered in Github the relative link will give a 404 error. To preserve compatiblity of both, if use use the `.md` extension in the relative link — it will render correctly in both html and gihub and both will function as links to the correct place, for example see [./sample.md](./sample.md). You do not need to do this with `/` which will render `README.md` as `index.html`
 * You can create other `_layouts/` templates, and have pages use them by adding this yaml frontmatter to the top of the page:
   ```
   ---
   layout: templatename
   ---
   ```
+### Displays correctly both Web View and in GitHub View
+* <a class="btn mr2" href="#url" role="button">Link button</a>
+* <a class="btn btn-sm" href="#url" role="button">Link button</a>
+
+### Displays correctly both Web View and in GitHub View, but requires proper formatting
+* Github will render raw URLs as links, but you must use proper markdown construction for it to work on pages
+* If you do a relative link to a markdown file without the extension, it will be rendered in html correctly, for example relative [./sample](./sample). Unfortunately, when rendered in Github the relative link will give a 404 error. To preserve compatiblity of both, if use use the `.md` extension in the relative link — it will render correctly in both html and gihub and both will function as links to the correct place, for example see [./sample.md](./sample.md). You do not need to do this with `/` which will render `README.md` as `index.html`
+
+Displays correctly in Web View, but on in GitHub View
+* You can display a github avatar {% avatar ChristopherA %}
 * You can have pages that will not be rendered as web pages by adding this yaml frontmatter to the top of the page:
 ```
   ---
   published: false
   ---
   ```
-  ### Displays correctly in Web View, but on in GitHub View
-* You can display a github avatar {% avatar ChristopherA %}
+ 
