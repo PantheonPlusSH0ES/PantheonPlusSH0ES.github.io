@@ -37,4 +37,5 @@ Repo at [https://github.com/ChristopherA/simplest-github-page/](https://github.c
   published: false
   ---
   ```
+  ### Displays correctly in Web View, but on in GitHub View
 * You can display a github avatar {% avatar ChristopherA %}
