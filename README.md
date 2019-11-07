@@ -44,7 +44,11 @@ Repo at [https://github.com/ChristopherA/simplest-github-page/](https://github.c
 * If you do a relative link to a markdown file without the extension, it will be rendered in html correctly, for example relative [./sample](./sample). Unfortunately, when rendered in Github the relative link will give a 404 error. To preserve compatiblity of both, if use use the `.md` extension in the relative link — it will render correctly in both html and gihub and both will function as links to the correct place, for example see [./sample.md](./sample.md). You do not need to do this with `/` which will render `README.md` as `index.html`
 
 ### Displays correctly in Web View, but look different (but is acceptable) in GitHub View
-* Buttons like <a class="btn mr2" href="#url" role="button">Link Button</a> <a class="btn btn-sm" href="#url" role="button">Small Link Button</a> and other special buttons as per https://primer.style/css/components/buttons
+* HTML Divs such as
+<div class="box-shadow p-3">
+  .box-shadow
+</div> 
+* HTML Components such as Buttons (for instance <a class="btn mr2" href="#url" role="button">Link Button</a> & <a class="btn btn-sm" href="#url" role="button">Small Link Button</a> will render as buttons on in the WebView, but as links in the GitHub view. More information on other HTML components available at https://primer.style/css/components
 
 ### Displays correctly in Web View, but on in GitHub View
-* You can display a github avatar {% avatar ChristopherA %}
+* You can display a github avatar {% avatar ChristopherA %} in the Web View but is ugly in the Github View.
