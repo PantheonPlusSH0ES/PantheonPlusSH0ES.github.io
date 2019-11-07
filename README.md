@@ -29,6 +29,7 @@ Repo at [https://github.com/ChristopherA/simplest-github-page/](https://github.c
   layout: templatename
   ---
   ```
+
 ### Displays correctly both Web View and in GitHub View
 
 ### Displays correctly both Web View and in GitHub View, but requires proper formatting
