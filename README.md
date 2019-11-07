@@ -53,18 +53,15 @@ Repo at [https://github.com/ChristopherA/simplest-github-page/](https://github.c
 <div class="col-6">
   <div class="Box box-shadow">
     <div class="Box-row">
-      <h3 class="m-0">Organization</h3>
+      <h3 class="m-0">Box Header</h3>
     </div>
     <div class="Box-row">
       <p class="mb-0 text-gray">
-        Taxidermy live-edge mixtape, keytar tumeric locavore meh selvage deep v letterpress vexillologist lo-fi tousled
-        church-key thundercats. Brooklyn bicycle rights tousled, marfa actually.
+        Box body text, such as the quick brown fox jumped over the lazy dog.
       </p>
     </div>
     <div class="Box-row">
-      <button type="button" name="Create an organization" class="btn btn-primary btn-block">
-        Create an organization
-      </button>
+      <a class="btn btn-primary btn-block" href="#url" role="button" name="Box Link Button">A Box Button Link</a>
     </div>
   </div>
 </div>
