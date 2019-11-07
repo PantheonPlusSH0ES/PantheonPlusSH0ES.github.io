@@ -45,7 +45,7 @@ Repo at [https://github.com/ChristopherA/simplest-github-page/](https://github.c
 
 ### Displays correctly in Web View, but look different (but is acceptable) in GitHub View
 * HTML Components such as Buttons (for instance <a class="btn mr2" href="#url" role="button">Link Button</a> & <a class="btn btn-sm" href="#url" role="button">Small Link Button</a> will render as buttons on in the WebView, but as links in the GitHub view. More information on other HTML components available at https://primer.style/css/components
-* HTML Divs can be useful in Web View, and don't display in GitHub but can be make to look acceptable: 
+* HTML Divs such as boxes can be useful in Web View, but don't display in GitHub. The can be make to look acceptable in both using tricks like a blockquote tag. More information on other HTML divs such as boxes available at https://primer.style/css/utilities/box-shadow
 <blockquote>
 <div class="col-6">
   <div class="Box box-shadow">
