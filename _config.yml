@@ -25,3 +25,9 @@ plugins:
   - jekyll-default-layout # https://github.com/benbalter/jekyll-titles-from-headings
   - jekyll-relative-links # https://github.com/benbalter/jekyll-relative-links
   - jekyll-avatar # https://github.com/benbalter/jekyll-avatar
+sass:
+  # Where you keep your scss files
+  sass_dir: assets/css/
+  # Where sass should look for other scss
+  load_paths:
+    - node_modules/
