@@ -2,14 +2,14 @@
 
 Test of simplest GitHub page
 
-View data here [https://github.com/PantheonPlusSH0ES](https://github.com/PantheonPlusSH0ES)
+View data here [https://github.com/PantheonPlusSH0ES/DataRelease](https://github.com/PantheonPlusSH0ES/DataRelease)
 
 ## Goals
 
 * Point to papers
 * Point to data
 * Show how to use data properly and maybe provide a bit of code or figures
-* Support internal download buttons <a class="btn btn-sm" href="https://raw.githubusercontent.com/PantheonPlusSH0ES/DataRelease/main/test.txt" download role="button" >Download Button</a> 
+* Support internal download buttons <a class="btn btn-sm" href="https://raw.githubusercontent.com/PantheonPlusSH0ES/DataRelease/main/test.txt.gz" download role="button" >Download Button</a> 
 
 
 ## Notes
