@@ -1,10 +1,8 @@
-title: "Simplest GitHub Page"
-project: "Simplest GitHub Page"
-description: "Test of simplest GitHub page, leveraging Jekyll without Jekyll"
-author: Christopher Allen
-email: ChristopherA@LifeWithAlacrity.com
-twitter_username: ChristopherA
-github_username:  ChristopherA
+title: "Pantheon+SH0ES Cosmology and Data Releases"
+project: "Pantheon+SH0ES"
+description: "github repo"
+author: Dillon Brout
+email: dillon.brout@cfa.harvard.edu
 show_downloads: false
 encoding: UTF-8
 kramdown:
