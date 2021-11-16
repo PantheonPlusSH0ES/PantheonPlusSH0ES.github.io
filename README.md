@@ -16,9 +16,10 @@ View data here [https://github.com/PantheonPlusSH0ES](https://github.com/Pantheo
 * You can create text like this:
   ```
   ---
-  layout: templatename
+  Text can look like code too but this is just a block.
   ---
   ```
+* You can pretty much use anything in markdown
 * You can have pages too. 
 
 
