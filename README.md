@@ -1,4 +1,4 @@
-# Simplest GitHub Page
+# Pantheon+SH0ES GitHub Page
 
 Test of simplest GitHub page, leveraging Jekyll without Jekyll.
 
