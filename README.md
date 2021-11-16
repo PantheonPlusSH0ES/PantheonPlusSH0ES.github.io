@@ -1,6 +1,4 @@
-# Pantheon+SH0ES GitHub Page
-
-Test of simplest GitHub page
+# Template Pantheon+SH0ES GitHub.io Page
 
 View data here [https://github.com/PantheonPlusSH0ES/DataRelease](https://github.com/PantheonPlusSH0ES/DataRelease)
 
