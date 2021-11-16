@@ -16,8 +16,14 @@ View data here [https://github.com/PantheonPlusSH0ES](https://github.com/Pantheo
 * You can create text like this:
   ```
   ---
-  Text can look like code too but this is just a block.
+  Text can look likethis
   ---
+  ```
+* You can create a code block too:
+  ```python
+  import numpy as np
+  variable = np.somefunction(somedata)
+  
   ```
 * You can pretty much use anything in markdown
 * You can have pages too. 
