@@ -11,6 +11,10 @@ View data here [https://github.com/PantheonPlusSH0ES/DataRelease](https://github
 * Show how to use data properly and maybe provide a bit of code or figures
 * Support internal download buttons <a class="btn btn-sm" href="https://raw.githubusercontent.com/PantheonPlusSH0ES/DataRelease/main/test.txt.gz" download role="button" >Download Button</a> 
 
+## Papers
+
+* SH0ES https://arxiv.org/pdf/1604.01424.pdf
+* Pantheon https://arxiv.org/pdf/1710.00845.pdf
 
 ## Notes
 * You can create text like this:
