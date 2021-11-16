@@ -18,15 +18,14 @@ View data here [https://github.com/PantheonPlusSH0ES/DataRelease](https://github
   ---
   Text can look likethis
   ---
-  ```
-* You can create a code block too:
-  ```python
+  
   import numpy as np
   variable = np.somefunction(somedata)
-  
   ```
 * You can pretty much use anything in markdown
 * You can have pages too. 
+
+<img width="626" alt="image" src="https://user-images.githubusercontent.com/5403753/142009795-3e30d41d-b6b2-4a1a-96e2-8d694b5fa481.png">
 
 
 
