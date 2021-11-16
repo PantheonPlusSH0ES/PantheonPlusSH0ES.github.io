@@ -9,7 +9,7 @@ View data here [https://github.com/PantheonPlusSH0ES](https://github.com/Pantheo
 * Point to papers
 * Point to data
 * Show how to use data properly and maybe provide a bit of code or figures
-* Support internal download buttons <a class="btn btn-sm" href="https://raw.githubusercontent.com/PantheonPlusSH0ES/DataRelease/main/test.txt" role="button" download>Download Button</a> 
+* Support internal download buttons <a class="btn btn-sm" href="https://raw.githubusercontent.com/PantheonPlusSH0ES/DataRelease/main/test.txt" download role="button" >Download Button</a> 
 
 
 ## Notes
