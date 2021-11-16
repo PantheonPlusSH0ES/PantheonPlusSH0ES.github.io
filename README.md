@@ -1,10 +1,8 @@
 # Pantheon+SH0ES GitHub Page
 
-Test of simplest GitHub page, leveraging Jekyll without Jekyll.
+Test of simplest GitHub page
 
-View at [https://christophera.github.io/simplest-github-page/](https://christophera.github.io/simplest-github-page/)
-
-Repo at [https://github.com/ChristopherA/simplest-github-page/](https://github.com/ChristopherA/simplest-github-page/)
+View data here [https://github.com/PantheonPlusSH0ES](https://github.com/PantheonPlusSH0ES)
 
 ## Goals
 
@@ -13,13 +11,9 @@ Repo at [https://github.com/ChristopherA/simplest-github-page/](https://github.c
 * Leverage the default [Jekyll Primer](https://github.com/pages-themes/primer) theme's CSS without the using the full theme.
 * Support internal anchor link tags
 
-## Using This
-* [ ]  Copy these files in this repo to your own github
-* [ ]  In your repo, turn on github pages for 'master'
-* [ ]  Do not select a theme.
-* [ ]  Edit the `_config.yml` with your own info
-* [ ]  Edit the `/_layouts/default.html` file to change default html template.
-* [ ]  Add to `/_layouts/default.html` template any inline styles you wish to override.
+    <div class="Box-row">
+      <a class="btn btn-primary btn-block" href="https://raw.githubusercontent.com/PantheonPlusSH0ES/DataRelease/main/test.txt" role="button" name="Box Link Button" download>Download Button</a>
+    </div>
 
 ## Notes
 * This technique will force Github to default to the CSS used by the [Primer Theme](https://github.com/pages-themes/primer), which is is the default Github theme if you do not select a theme, however, note that this theme is not among GitHub's standard theme choices, so you can't return to it if you pick a different theme.
