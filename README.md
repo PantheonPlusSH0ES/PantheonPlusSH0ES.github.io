@@ -14,6 +14,11 @@ View data here [https://github.com/PantheonPlusSH0ES/DataRelease](https://github
 * SH0ES [https://arxiv.org/pdf/1604.01424.pdf](https://arxiv.org/pdf/1604.01424.pdf)
 * Pantheon [https://arxiv.org/pdf/1710.00845.pdf](https://arxiv.org/pdf/1710.00845.pdf)
 
+## How to Cite
+
+* come up with a plan here
+
+
 ## Notes
 * You can create text like this:
   ```
