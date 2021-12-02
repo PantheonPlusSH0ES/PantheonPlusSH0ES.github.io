@@ -1,22 +1,20 @@
-# Template Pantheon+SH0ES GitHub.io Page
+# Pantheon+SH0ES GitHub.io Page
 
-View data here [https://github.com/PantheonPlusSH0ES/DataRelease](https://github.com/PantheonPlusSH0ES/DataRelease)
-
-## Goals
-
-* Point to papers
-* Point to data
-* Show how to use data properly and maybe provide a bit of code or figures
-* Support internal download buttons <a class="btn btn-sm" href="https://raw.githubusercontent.com/PantheonPlusSH0ES/DataRelease/main/test.txt.gz" download role="button" >Download Button</a> 
+The data will be released upon acceptance of various papers [https://github.com/PantheonPlusSH0ES/DataRelease](https://github.com/PantheonPlusSH0ES/DataRelease)
 
 ## Papers
 
-* SH0ES [https://arxiv.org/pdf/1604.01424.pdf](https://arxiv.org/pdf/1604.01424.pdf)
-* Pantheon [https://arxiv.org/pdf/1710.00845.pdf](https://arxiv.org/pdf/1710.00845.pdf)
+
+To come soon:
+* Dec 6: New Pantheon+ Sample paper
+* Dec 7: New Pantheon+ Calibration paper
+* Dec 8: New Pantheon+ Bias-Correction paper
+* Dec 9: New SH0ES H0 paper 
+* Jan 15: New Pantheon+ w paper 
 
 ## How to Cite
 
-* come up with a plan here
+* Please cite 
 
 
 ## Notes
