@@ -9,7 +9,7 @@ The data will be released upon acceptance of various papers [https://github.com/
 
 <img width="385" alt="Screen Shot 2021-12-02 at 1 44 12 PM" src="https://user-images.githubusercontent.com/33528267/144483599-fa75d682-8cb0-4bd9-8a3f-03834fc87e5b.png">
 
-###'The Pantheon+ Analysis: Improving the Redshifts and Peculiar Velocities of Type Ia Supernovae Used in Cosmological Analyses', Carr et al., 
+###'The Pantheon+ Analysis: Improving the Redshifts and Peculiar Velocities of Type Ia Supernovae Used in Cosmological Analyses', Carr et al.,https://arxiv.org/abs/2112.01471
 
 <img width="906" alt="Screen Shot 2021-12-02 at 1 45 02 PM" src="https://user-images.githubusercontent.com/33528267/144483714-bf14d6a9-9e79-476b-a0a0-badef90c9ffc.png">
 
