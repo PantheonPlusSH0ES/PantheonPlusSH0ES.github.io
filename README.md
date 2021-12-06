@@ -7,7 +7,7 @@ The data will be released upon acceptance of various papers [https://github.com/
 
 ### 'The Pantheon+ Analysis: Evaluating Peculiar Velocity Corrections in Cosmological Analyses with Nearby Type Ia Supernovae', Peterson et al., https://arxiv.org/abs/2110.03487
 
-<img width="385" alt="Screen Shot 2021-12-02 at 1 44 12 PM" src="https://user-images.githubusercontent.com/33528267/144483599-fa75d682-8cb0-4bd9-8a3f-03834fc87e5b.png">{:style="float: right;margin-right: 7px;margin-top: 7px;"}
+<img width="385" alt="Screen Shot 2021-12-02 at 1 44 12 PM" src="https://user-images.githubusercontent.com/33528267/144483599-fa75d682-8cb0-4bd9-8a3f-03834fc87e5b.png">
 
 ### 'The Pantheon+ Analysis: Improving the Redshifts and Peculiar Velocities of Type Ia Supernovae Used in Cosmological Analyses', Carr et al.,https://arxiv.org/abs/2112.01471
 
