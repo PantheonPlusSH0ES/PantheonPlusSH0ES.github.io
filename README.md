@@ -2,6 +2,12 @@
 
 The data and instructions for usage will be released upon acceptance of various papers [https://github.com/PantheonPlusSH0ES/DataRelease](https://github.com/PantheonPlusSH0ES/DataRelease)
 
+To come soon:
+* Dec 8: New Pantheon+ Bias-Correction paper
+* Dec 9: New SH0ES H0 paper 
+* Mid Jan: New Pantheon+ w paper 
+
+
 ## Papers
 
 ### The Pantheon+ Analysis: The Pantheon+ Type Ia Supernova Sample: The Full Dataset and Light-Curve Release
@@ -33,10 +39,6 @@ The data and instructions for usage will be released upon acceptance of various 
 
 
 
-To come soon:
-* Dec 8: New Pantheon+ Bias-Correction paper
-* Dec 9: New SH0ES H0 paper 
-* Mid Jan: New Pantheon+ w paper 
 
 ## How to Cite
 
