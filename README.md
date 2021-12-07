@@ -16,13 +16,13 @@ To come soon:
 ### The Pantheon+ Analysis: The Pantheon+ Type Ia Supernova Sample: The Full Dataset and Light-Curve Release
 ### *Scolnic et al.*, [arXiv.org/abs/2110.03487](https://arxiv.org/abs/2110.03487)
 
-<img width="385" alt="Screen Shot 2021-12-02 at 1 44 12 PM" src="https://user-images.githubusercontent.com/5403753/145083029-2a35fe99-a727-4d2a-b8fe-c0147534a7b5.png">
+<img width="300" alt="Screen Shot 2021-12-02 at 1 44 12 PM" src="https://user-images.githubusercontent.com/5403753/145083029-2a35fe99-a727-4d2a-b8fe-c0147534a7b5.png">
 <hr />
 
 ### The Pantheon+ Analysis: SuperCal-Fragilistic Cross Calibration, Retrained SALT2 Light Curve Model, and Calibration Systematic Uncertainty
 ### *Brout et al.*, [arXiv.org/abs/2110.03487](https://arxiv.org/abs/2110.03487)
 
-<img width="385" alt="Screen Shot 2021-12-02 at 1 44 12 PM" src="https://user-images.githubusercontent.com/5403753/145082618-e62a23b3-791a-4fa1-89b9-a4ef88e5d7a5.png">
+<img width="300" alt="Screen Shot 2021-12-02 at 1 44 12 PM" src="https://user-images.githubusercontent.com/5403753/145082618-e62a23b3-791a-4fa1-89b9-a4ef88e5d7a5.png">
 <hr />
 
 ### The Pantheon+ Analysis: Evaluating Peculiar Velocity Corrections in Cosmological Analyses with Nearby Type Ia Supernovae 
