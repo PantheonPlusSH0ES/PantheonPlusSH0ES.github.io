@@ -25,13 +25,13 @@ The data will be released upon acceptance of various papers [https://github.com/
 ### The Pantheon+ Analysis: Improving the Redshifts and Peculiar Velocities of Type Ia Supernovae Used in Cosmological Analyses 
 ### Carr et al.,https://arxiv.org/abs/2112.01471
 
-<img width="500" alt="Screen Shot 2021-12-02 at 1 45 02 PM" src="https://user-images.githubusercontent.com/33528267/144483714-bf14d6a9-9e79-476b-a0a0-badef90c9ffc.png">
+<img width="600" alt="Screen Shot 2021-12-02 at 1 45 02 PM" src="https://user-images.githubusercontent.com/33528267/144483714-bf14d6a9-9e79-476b-a0a0-badef90c9ffc.png">
 
 ## 
 ### The Pantheon+ Analysis: Dependence of Cosmological Constraints on Photometric-Zeropoint Uncertainties of Supernova Surveys 
 ### Brownsberger et al., https://arxiv.org/abs/2110.03486
 
-<img width="500" alt="Screen Shot 2021-12-02 at 1 43 32 PM" src="https://user-images.githubusercontent.com/33528267/144483545-c191d5e9-c774-4c13-9b2b-691dfa4efdc1.png">
+<img width="600" alt="Screen Shot 2021-12-02 at 1 43 32 PM" src="https://user-images.githubusercontent.com/33528267/144483545-c191d5e9-c774-4c13-9b2b-691dfa4efdc1.png">
 
 
 
