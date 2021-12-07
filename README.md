@@ -1,6 +1,8 @@
-# Pantheon+SH0ES GitHub.io Page
+# Pantheon+SH0ES Results 2021/2022
 
-The data will be released upon acceptance of various papers [https://github.com/PantheonPlusSH0ES/DataRelease](https://github.com/PantheonPlusSH0ES/DataRelease)
+The data and instructions for usage will be released upon acceptance of various papers [https://github.com/PantheonPlusSH0ES/DataRelease](https://github.com/PantheonPlusSH0ES/DataRelease)
+
+## Papers
 
 ### The Pantheon+ Analysis: The Pantheon+ Type Ia Supernova Sample: The Full Dataset and Light-Curve Release
 ### Scolnic et al., [arXiv.org/abs/2110.03487](https://arxiv.org/abs/2110.03487)
