@@ -4,7 +4,7 @@
 
 **Thursday Dec 9th @ Noon EST** (will be recorded)
 
---- [Sign Up Here](https://duke.zoom.us/webinar/register/WN_nfMfL0WSSeKGQpCG1heL5Q?_x_zm_rtaid=EQCjgh9zRKuUeZtSn58jFg.1638894828947.8b59b14e3ce9df34db6ae405a8be80e7&_x_zm_rhtaid=92) ---
+--- [Webinar Sign Up Here](https://duke.zoom.us/webinar/register/WN_nfMfL0WSSeKGQpCG1heL5Q?_x_zm_rtaid=EQCjgh9zRKuUeZtSn58jFg.1638894828947.8b59b14e3ce9df34db6ae405a8be80e7&_x_zm_rhtaid=92) ---
 
 Will cover:
 * Pantheon+ SN Sample update
