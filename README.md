@@ -15,6 +15,7 @@ To come soon:
 
 The bulk of the data and instructions for usage will be released upon acceptance of various papers [https://github.com/PantheonPlusSH0ES/DataRelease](https://github.com/PantheonPlusSH0ES/DataRelease). See that page for what has been uploaded so far.
 
+<hr />
 
 ## Papers
 
