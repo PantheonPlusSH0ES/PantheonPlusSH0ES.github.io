@@ -1,10 +1,15 @@
 # Pantheon+SH0ES Results 2021/2022
 
-### H0 Result Zoom Webinar (1hr with Panel Discussion)
+### H0 Result Zoom Webinar (1hr)
 
 **Thursday Dec 9th @ Noon EST** (will be recorded)
 
 --- [Sign Up Here](https://duke.zoom.us/webinar/register/WN_nfMfL0WSSeKGQpCG1heL5Q?_x_zm_rtaid=EQCjgh9zRKuUeZtSn58jFg.1638894828947.8b59b14e3ce9df34db6ae405a8be80e7&_x_zm_rhtaid=92) ---
+
+Will cover:
+* Pantheon+ SN Sample update (1701 SNe Ia)
+* SH0ES paper overview and H0 Result
+* Panel discussion with guests Licia Verde and Dragan Huterer
 
 *SH0ES paper will be posted here immediately after webinar (1pm EST) and will subsequently appear on arXiv*
 
