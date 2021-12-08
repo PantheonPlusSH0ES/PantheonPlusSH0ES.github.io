@@ -1,6 +1,6 @@
 # Pantheon+SH0ES Results 2021/2022
 
-H0 Result Zoom Webinar (1hr with Panel Discussion)
+### H0 Result Zoom Webinar (1hr with Panel Discussion)
 
 **Thursday Dec 9th @ Noon EST** (will be recorded)
 
