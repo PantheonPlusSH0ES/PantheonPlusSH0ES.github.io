@@ -10,7 +10,7 @@ H0 Result Zoom Webinar (1hr with Panel Discussion)
 
 <hr />
 
-Coming soon: Mid Jan: New Pantheon+ w cosmology paper 
+Coming soon in mid January: New Pantheon+ w cosmology paper 
 
 The bulk of the data and instructions for usage will be released upon acceptance of various papers [https://github.com/PantheonPlusSH0ES/DataRelease](https://github.com/PantheonPlusSH0ES/DataRelease). See that page for what has been uploaded so far.
 
