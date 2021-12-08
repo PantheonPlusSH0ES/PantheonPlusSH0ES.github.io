@@ -9,7 +9,7 @@
 Will cover:
 * Pantheon+ SN Sample update
 * SH0ES paper overview and H0 Result
-* Panel discussion with guests Licia Verde and Dragan Huterer
+* Discussion with guests Licia Verde and Dragan Huterer
 
 *SH0ES paper will be posted here immediately after webinar (1pm EST) and will subsequently appear on arXiv*
 
