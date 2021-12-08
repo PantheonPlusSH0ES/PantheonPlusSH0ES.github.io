@@ -1,7 +1,9 @@
 # Pantheon+SH0ES Results 2021/2022
 
 Pantheon+ Sample and SH0ES H0 Results Zoom Webinar 
-Thursday Dec 9th @ Noon EST
+
+***Thursday Dec 9th @ Noon EST*** (will be recorded)
+
 [Sign Up Here](https://duke.zoom.us/webinar/register/WN_nfMfL0WSSeKGQpCG1heL5Q?_x_zm_rtaid=EQCjgh9zRKuUeZtSn58jFg.1638894828947.8b59b14e3ce9df34db6ae405a8be80e7&_x_zm_rhtaid=92)
 
 The bulk of the data and instructions for usage will be released upon acceptance of various papers [https://github.com/PantheonPlusSH0ES/DataRelease](https://github.com/PantheonPlusSH0ES/DataRelease). See that page for what has been uploaded so far.
