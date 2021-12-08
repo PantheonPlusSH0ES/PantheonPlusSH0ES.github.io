@@ -7,7 +7,7 @@
 --- [Sign Up Here](https://duke.zoom.us/webinar/register/WN_nfMfL0WSSeKGQpCG1heL5Q?_x_zm_rtaid=EQCjgh9zRKuUeZtSn58jFg.1638894828947.8b59b14e3ce9df34db6ae405a8be80e7&_x_zm_rhtaid=92) ---
 
 Will cover:
-* Pantheon+ SN Sample update (1701 SNe Ia)
+* Pantheon+ SN Sample update
 * SH0ES paper overview and H0 Result
 * Panel discussion with guests Licia Verde and Dragan Huterer
 
