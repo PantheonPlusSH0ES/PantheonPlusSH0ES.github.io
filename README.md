@@ -47,7 +47,7 @@ The bulk of the data and instructions for usage will be released upon acceptance
 ### The Pantheon+ Analysis: Dependence of Cosmological Constraints on Photometric-Zeropoint Uncertainties of Supernova Surveys 
 ### *Brownsberger et al.*, [https://arxiv.org/abs/2110.03486](https://arxiv.org/abs/2110.03486)
 
-<img width="600" alt="Screen Shot 2021-12-02 at 1 43 32 PM" src="https://user-images.githubusercontent.com/33528267/144483545-c191d5e9-c774-4c13-9b2b-691dfa4efdc1.png">
+<img width="600" alt="Screen Shot 2021-12-02 at 1 43 32 PM" src="https://user-images.githubusercontent.com/5403753/145264858-471b6950-742c-4f1b-8cd6-4524e5bc029d.png">
 <hr />
 
 
