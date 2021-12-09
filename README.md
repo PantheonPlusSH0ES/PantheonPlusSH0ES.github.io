@@ -25,37 +25,37 @@ The bulk of the data and instructions for usage will be released upon acceptance
 
 ## Papers
 
-### The Pantheon+ Analysis: The Pantheon+ Type Ia Supernova Sample: The Full Dataset and Light-Curve Release
+### The Full Dataset and Light-Curve Release
 ### *Scolnic et al.*, [https://arxiv.org/abs/2112.03863](https://arxiv.org/abs/2112.03863)
 
 <img width="300" alt="Screen Shot 2021-12-02 at 1 44 12 PM" src="https://user-images.githubusercontent.com/5403753/145083029-2a35fe99-a727-4d2a-b8fe-c0147534a7b5.png">
 <hr />
 
-### The Pantheon+ Analysis: SuperCal-Fragilistic Cross Calibration, Retrained SALT2 Light Curve Model, and Calibration Systematic Uncertainty
+### SuperCal-Fragilistic Cross Calibration, Retrained SALT2 Light Curve Model, and Calibration Systematic Uncertainty
 ### *Brout et al.*, [https://arxiv.org/abs/2112.03864](https://arxiv.org/abs/2112.03864)
 
 <img width="300" alt="Screen Shot 2021-12-02 at 1 44 12 PM" src="https://user-images.githubusercontent.com/5403753/145082618-e62a23b3-791a-4fa1-89b9-a4ef88e5d7a5.png">
 <hr />
 
-### The Pantheon+ Analysis: Evaluating Peculiar Velocity Corrections in Cosmological Analyses with Nearby Type Ia Supernovae 
+### Evaluating Peculiar Velocity Corrections in Cosmological Analyses with Nearby Type Ia Supernovae 
 ### *Peterson et al.*, [arXiv.org/abs/2110.03487](https://arxiv.org/abs/2110.03487)
 
 <img width="385" alt="Screen Shot 2021-12-02 at 1 44 12 PM" src="https://user-images.githubusercontent.com/33528267/144483599-fa75d682-8cb0-4bd9-8a3f-03834fc87e5b.png">
 <hr />
 
-### The Pantheon+ Analysis: Improving the Redshifts and Peculiar Velocities of Type Ia Supernovae Used in Cosmological Analyses 
+### Improving the Redshifts and Peculiar Velocities of Type Ia Supernovae Used in Cosmological Analyses 
 ### *Carr et al.*, [https://arxiv.org/abs/2112.01471](https://arxiv.org/abs/2112.01471)
 
 <img width="385" alt="Screen Shot 2021-12-02 at 1 45 02 PM" src="https://user-images.githubusercontent.com/5403753/145264758-ac32be8d-7b69-46c4-82af-1230e3d2e484.png">
 <hr />
 
-### The Pantheon+ Analysis: Evaluating Peculiar Velocity Corrections in Cosmological Analyses with Nearby Type Ia Supernovae 
+### Evaluating Peculiar Velocity Corrections in Cosmological Analyses with Nearby Type Ia Supernovae 
 ### *Popovic et al.*, [https://arxiv.org/abs/2112.04456](https://arxiv.org/abs/2112.04456)
 
 <img width="300" alt="Screen Shot 2021-12-02 at 1 44 12 PM" src="https://user-images.githubusercontent.com/5403753/145410461-d15774ef-594e-4bc5-9d5d-f5237ec775d3.png">
 <hr />
 
-### The Pantheon+ Analysis: Dependence of Cosmological Constraints on Photometric-Zeropoint Uncertainties of Supernova Surveys 
+### Dependence of Cosmological Constraints on Photometric-Zeropoint Uncertainties of Supernova Surveys 
 ### *Brownsberger et al.*, [https://arxiv.org/abs/2110.03486](https://arxiv.org/abs/2110.03486)
 
 <img width="385" alt="Screen Shot 2021-12-02 at 1 43 32 PM" src="https://user-images.githubusercontent.com/5403753/145264858-471b6950-742c-4f1b-8cd6-4524e5bc029d.png">
