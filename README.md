@@ -19,7 +19,7 @@ The bulk of the data and instructions for usage will be released upon acceptance
 
 <hr />
 
-## Papers
+## Pantheon+ Papers
 
 ### The Full Dataset and Light-Curve Release
 ### *Scolnic et al.*, [https://arxiv.org/abs/2112.03863](https://arxiv.org/abs/2112.03863)
