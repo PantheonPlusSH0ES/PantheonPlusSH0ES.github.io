@@ -13,6 +13,8 @@ Will cover:
 
 *SH0ES paper will be posted here immediately after webinar (1pm EST) and will subsequently appear on arXiv*
 
+Coming soon <a class="btn btn-sm" href="https://github.com/PantheonPlusSH0ES/PantheonPlusSH0ES.github.io/raw/master/coming_soon.pdf" download role="button" >Download Button</a>
+
 <hr />
 
 Coming soon in mid January: New Pantheon+ w cosmology paper 
@@ -47,6 +49,11 @@ The bulk of the data and instructions for usage will be released upon acceptance
 <img width="385" alt="Screen Shot 2021-12-02 at 1 45 02 PM" src="https://user-images.githubusercontent.com/5403753/145264758-ac32be8d-7b69-46c4-82af-1230e3d2e484.png">
 <hr />
 
+### The Pantheon+ Analysis: Evaluating Peculiar Velocity Corrections in Cosmological Analyses with Nearby Type Ia Supernovae 
+### *Popovic et al.*, [https://arxiv.org/abs/2112.04456](https://arxiv.org/abs/2112.04456)
+
+<img width="300" alt="Screen Shot 2021-12-02 at 1 44 12 PM" src="https://user-images.githubusercontent.com/5403753/145410461-d15774ef-594e-4bc5-9d5d-f5237ec775d3.png">
+<hr />
 
 ### The Pantheon+ Analysis: Dependence of Cosmological Constraints on Photometric-Zeropoint Uncertainties of Supernova Surveys 
 ### *Brownsberger et al.*, [https://arxiv.org/abs/2110.03486](https://arxiv.org/abs/2110.03486)
