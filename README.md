@@ -11,7 +11,7 @@ Will cover:
 * SH0ES paper overview and H0 Result
 * Discussion with guests Licia Verde and Dragan Huterer
 
-*SH0ES paper will be posted here shortly after webinar (1pm EST) and will subsequently appear on arXiv*
+*SH0ES paper will be posted here shortly after webinar and will subsequently appear on arXiv*
 
 ## Coming soon <a class="btn btn-sm" href="https://github.com/PantheonPlusSH0ES/PantheonPlusSH0ES.github.io/raw/master/coming_soon.pdf" download role="button" >Download</a>
 
