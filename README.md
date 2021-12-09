@@ -1,19 +1,11 @@
 # Pantheon+SH0ES Results 2021/2022
 
-### H0 Result Zoom Webinar (1hr)
 
-**Thursday Dec 9th @ Noon EST** (will be recorded)
+# SH0ES H0 Paper <a class="btn btn-sm" href="https://github.com/PantheonPlusSH0ES/PantheonPlusSH0ES.github.io/raw/master/coming_soon.pdf" download role="button" >Download PDF</a>
 
---- [Webinar Sign Up Here](https://duke.zoom.us/webinar/register/WN_nfMfL0WSSeKGQpCG1heL5Q?_x_zm_rtaid=EQCjgh9zRKuUeZtSn58jFg.1638894828947.8b59b14e3ce9df34db6ae405a8be80e7&_x_zm_rhtaid=92) ---
+<img width="300" alt="Screen Shot 2021-12-02 at 1 44 12 PM" src="https://user-images.githubusercontent.com/5403753/145451352-1b155aa4-6e7f-4e7e-8ffd-1987d16f51b0.png">
 
-Will cover:
-* Pantheon+ SN Sample update
-* SH0ES paper overview and H0 Result
-* Discussion with guests Licia Verde and Dragan Huterer
-
-*SH0ES paper will be posted here shortly after webinar and will subsequently appear on arXiv*
-
-## Coming soon <a class="btn btn-sm" href="https://github.com/PantheonPlusSH0ES/PantheonPlusSH0ES.github.io/raw/master/coming_soon.pdf" download role="button" >Download</a>
+### *to appear on arXiv for Dec 10, 2021*
 
 <hr />
 
