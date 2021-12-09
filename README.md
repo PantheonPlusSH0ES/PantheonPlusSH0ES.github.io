@@ -2,7 +2,7 @@
 
 Today's Pantheon+SHOES webinar (skip first 5 minutes of silence): 
 
-[https://duke.zoom.us/rec/share/4P-9R1kBQXLMJQxG3mCWk--Alg-jcZn1ugsQTyjjyindqGY5WxkQGlvjAgIUvSif.JWOHh3rmTzqGlRf9]SH0ES recording
+[SH0ES recording](https://duke.zoom.us/rec/share/4P-9R1kBQXLMJQxG3mCWk--Alg-jcZn1ugsQTyjjyindqGY5WxkQGlvjAgIUvSif.JWOHh3rmTzqGlRf9)
 
 ## SH0ES H0 Paper <a class="btn btn-sm" href="https://github.com/PantheonPlusSH0ES/PantheonPlusSH0ES.github.io/raw/master/SH0ES_12_09_2021.pdf" download role="button" >Download PDF</a>
 
