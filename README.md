@@ -13,7 +13,7 @@ Will cover:
 
 *SH0ES paper will be posted here immediately after webinar (1pm EST) and will subsequently appear on arXiv*
 
-Coming soon <a class="btn btn-sm" href="https://github.com/PantheonPlusSH0ES/PantheonPlusSH0ES.github.io/raw/master/coming_soon.pdf" download role="button" >Download Button</a>
+Coming soon <a class="btn btn-sm" href="https://github.com/PantheonPlusSH0ES/PantheonPlusSH0ES.github.io/raw/master/coming_soon.pdf" download role="button" >Download</a>
 
 <hr />
 
