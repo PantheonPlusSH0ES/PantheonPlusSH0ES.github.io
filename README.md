@@ -49,7 +49,7 @@ The bulk of the data and instructions for usage will be released upon acceptance
 <img width="385" alt="Screen Shot 2021-12-02 at 1 45 02 PM" src="https://user-images.githubusercontent.com/5403753/145264758-ac32be8d-7b69-46c4-82af-1230e3d2e484.png">
 <hr />
 
-### Evaluating Peculiar Velocity Corrections in Cosmological Analyses with Nearby Type Ia Supernovae 
+### Forward-Modeling the Dust and Intrinsic Colour Distributions of Type Ia Supernovae, and Quantifying their Impact on Cosmological Inferences
 ### *Popovic et al.*, [https://arxiv.org/abs/2112.04456](https://arxiv.org/abs/2112.04456)
 
 <img width="300" alt="Screen Shot 2021-12-02 at 1 44 12 PM" src="https://user-images.githubusercontent.com/5403753/145410461-d15774ef-594e-4bc5-9d5d-f5237ec775d3.png">
