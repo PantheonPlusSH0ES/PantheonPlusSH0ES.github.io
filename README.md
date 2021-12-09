@@ -3,7 +3,8 @@
 
 ## SH0ES H0 Paper <a class="btn btn-sm" href="https://github.com/PantheonPlusSH0ES/PantheonPlusSH0ES.github.io/raw/master/SH0ES_12_09_2021.pdf" download role="button" >Download PDF</a>
 
-<img width="800" alt="Screen Shot 2021-12-02 at 1 44 12 PM" src="https://user-images.githubusercontent.com/5403753/145451352-1b155aa4-6e7f-4e7e-8ffd-1987d16f51b0.png">
+<img width="800" alt="Screen Shot 2021-12-02 at 1 44 12 PM" src="https://user-images.githubusercontent.com/5403753/145452414-298330f6-91d3-4a23-990b-a38f637c7cb3.png">
+
 
 ### *to appear on arXiv for Dec 10, 2021*
 
