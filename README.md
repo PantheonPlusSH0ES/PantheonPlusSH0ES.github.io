@@ -6,7 +6,7 @@ Today's Pantheon+SHOES webinar (skip first 5 minutes of silence):
 
 
 ## SH0ES H0 Paper 
-### *Scolnic et al.*, [https://arxiv.org/abs/2112.04510](https://arxiv.org/abs/2112.04510)
+### *Riess et al.*, [https://arxiv.org/abs/2112.04510](https://arxiv.org/abs/2112.04510)
 
 
 <img width="800" alt="Screen Shot 2021-12-02 at 1 44 12 PM" src="https://user-images.githubusercontent.com/5403753/145452414-298330f6-91d3-4a23-990b-a38f637c7cb3.png">
