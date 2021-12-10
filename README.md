@@ -4,12 +4,14 @@ Today's Pantheon+SHOES webinar (skip first 5 minutes of silence):
 
 [Pantheon+SH0ES Webinar recording](https://duke.zoom.us/rec/share/4P-9R1kBQXLMJQxG3mCWk--Alg-jcZn1ugsQTyjjyindqGY5WxkQGlvjAgIUvSif.JWOHh3rmTzqGlRf9)
 
-## SH0ES H0 Paper <a class="btn btn-sm" href="https://github.com/PantheonPlusSH0ES/PantheonPlusSH0ES.github.io/raw/master/SH0ES_12_09_2021.pdf" download role="button" >Download PDF</a>
+
+## SH0ES H0 Paper 
+### *Scolnic et al.*, [https://arxiv.org/abs/2112.04510](https://arxiv.org/abs/2112.04510)
+
 
 <img width="800" alt="Screen Shot 2021-12-02 at 1 44 12 PM" src="https://user-images.githubusercontent.com/5403753/145452414-298330f6-91d3-4a23-990b-a38f637c7cb3.png">
 
 
-### *to appear on arXiv for Dec 10, 2021*
 
 <hr />
 
