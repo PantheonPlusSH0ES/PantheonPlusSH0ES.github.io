@@ -15,7 +15,10 @@ Today's Pantheon+SHOES webinar (skip first 5 minutes of silence):
 
 <hr />
 
-Coming soon in mid January: New Pantheon+ w cosmology paper 
+## Pantheon+ w cosmology paper 
+### *Brout et al.*, [https://arxiv.org/abs/2202.04077](https://arxiv.org/abs/2202.04077)
+
+<hr />
 
 The bulk of the data and instructions for usage will be released upon acceptance of various papers [https://github.com/PantheonPlusSH0ES/DataRelease](https://github.com/PantheonPlusSH0ES/DataRelease). See that page for what has been uploaded so far.
 
