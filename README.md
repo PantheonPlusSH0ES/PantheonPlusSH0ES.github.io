@@ -15,15 +15,22 @@ Today's Pantheon+SHOES webinar (skip first 5 minutes of silence):
 
 <hr />
 
-## SH0ES NGC 4258 Paper 
+## SH0ES NGC 4258 Paper (data now included in Data Release)
 ### *Yuan et al.*, [https://arxiv.org/abs/2203.06681](https://arxiv.org/abs/2203.06681)
+
+<img width="665" alt="Screen Shot 2022-03-16 at 2 08 01 PM" src="https://user-images.githubusercontent.com/33528267/158658113-3bc9de6e-b294-4a7e-b74d-347315497892.png">
+
 
 ## Pantheon+ w cosmology paper 
 ### *Brout et al.*, [https://arxiv.org/abs/2202.04077](https://arxiv.org/abs/2202.04077)
 
+
+<img width="667" alt="Screen Shot 2022-03-16 at 2 07 34 PM" src="https://user-images.githubusercontent.com/33528267/158658050-3dc40ef6-3039-4fcc-81eb-658ef42d0759.png">
+
 <hr />
 
 The bulk of the data and instructions for usage will be released upon acceptance of various papers [https://github.com/PantheonPlusSH0ES/DataRelease](https://github.com/PantheonPlusSH0ES/DataRelease). See that page for what has been uploaded so far.
+
 
 <hr />
 
