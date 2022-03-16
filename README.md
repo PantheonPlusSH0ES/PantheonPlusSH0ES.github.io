@@ -15,6 +15,9 @@ Today's Pantheon+SHOES webinar (skip first 5 minutes of silence):
 
 <hr />
 
+## SH0ES NGC 4258 Paper 
+### *Yuan et al.*, [https://arxiv.org/abs/2203.06681](https://arxiv.org/abs/2203.06681)
+
 ## Pantheon+ w cosmology paper 
 ### *Brout et al.*, [https://arxiv.org/abs/2202.04077](https://arxiv.org/abs/2202.04077)
 
