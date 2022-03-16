@@ -7,7 +7,8 @@ Today's Pantheon+SHOES webinar (skip first 5 minutes of silence):
 The bulk of the data and instructions for usage will be released upon acceptance of various papers [https://github.com/PantheonPlusSH0ES/DataRelease](https://github.com/PantheonPlusSH0ES/DataRelease). See that page for what has been uploaded so far.
 
 
-#SH0ES Papers
+## SH0ES Papers
+
 
 ## SH0ES H0 Paper 
 ### *Riess et al.*, [https://arxiv.org/abs/2112.04510](https://arxiv.org/abs/2112.04510)
@@ -24,7 +25,8 @@ The bulk of the data and instructions for usage will be released upon acceptance
 
 <img width="665" alt="Screen Shot 2022-03-16 at 2 08 01 PM" src="https://user-images.githubusercontent.com/33528267/158658113-3bc9de6e-b294-4a7e-b74d-347315497892.png">
 
-#Pantheon+ Papers
+## Pantheon+ Papers
+
 
 ## Pantheon+ w cosmology paper 
 ### *Brout et al.*, [https://arxiv.org/abs/2202.04077](https://arxiv.org/abs/2202.04077)
@@ -38,7 +40,6 @@ The bulk of the data and instructions for usage will be released upon acceptance
 
 <hr />
 
-## Pantheon+ Papers
 
 ### The Full Dataset and Light-Curve Release
 ### *Scolnic et al.*, [https://arxiv.org/abs/2112.03863](https://arxiv.org/abs/2112.03863)
