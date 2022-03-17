@@ -4,7 +4,7 @@ Today's Pantheon+SHOES webinar (skip first 5 minutes of silence):
 
 [Pantheon+SH0ES Webinar recording](https://duke.zoom.us/rec/share/4P-9R1kBQXLMJQxG3mCWk--Alg-jcZn1ugsQTyjjyindqGY5WxkQGlvjAgIUvSif.JWOHh3rmTzqGlRf9)
 
-The bulk of the data and instructions for usage will be released upon acceptance of various papers [https://github.com/PantheonPlusSH0ES/DataRelease](https://github.com/PantheonPlusSH0ES/DataRelease). See that page for what has been uploaded so far.
+The bulk of the data and instructions for usage will be released upon acceptance of various papers which has already begun [https://github.com/PantheonPlusSH0ES/DataRelease](https://github.com/PantheonPlusSH0ES/DataRelease). See that page for what has been uploaded so far. Remaining data products will be available soon. 
 
 
 ## SH0ES Papers
