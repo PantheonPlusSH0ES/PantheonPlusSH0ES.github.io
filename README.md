@@ -1,5 +1,6 @@
 # Continuously updated database of references/crosschecks/tests
-[https://djbrout.github.io/SH0ESrefs.html] (https://djbrout.github.io/SH0ESrefs.html)
+
+[https://djbrout.github.io/SH0ESrefs.html](https://djbrout.github.io/SH0ESrefs.html)
 
 
 # Pantheon+SH0ES Results 2021/2022
